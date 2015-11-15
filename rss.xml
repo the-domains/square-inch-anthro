@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Square Inch Anthro]]></title>
+        <description><![CDATA[Square Inch Anthro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 Nov 2015 17:46:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flip-Flop Sit(-Sot?)]]></title>
+            <description><![CDATA[<article><h1>Flip-Flop Sit(-Sot?)</h1><p>There are many strategies for keeping your rear from touching the ground that I've seen. The classic around these parts has always been the "Bus Stop Squat" - the ability to squat is usually quite...</p><img src="https://phaven-prod.s3.amazonaws.com/files/image_part/asset/322219/OFP6kVzsREdGBdEjpiIEbsgp4xY/large_IMG_4625.JPG"></article>]]></description>
+            <link>http://squareinchanthro.com/flip-flop-sit-sot</link>
+            <guid isPermaLink="false">ebfd8616-3ad9-40f5-9c20-c0232899ab34</guid>
+            <pubDate>Sun, 15 Nov 2015 17:46:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
