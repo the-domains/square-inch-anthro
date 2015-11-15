@@ -1,6 +1,6 @@
 name: Square Inch Anthro
 favicon: null
-layout_spectrum: 0.1698070636484772
+layout_spectrum: 0.82623
 typography_spectrum: 0.8834316208958626
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.7345810488332063
+  brandStrength: 0.6875
   lightness: 0.2568993750028312
   saturation: 0.5361428568139672
   rhythmicContrast: 0.3265221640467644
