@@ -1,0 +1,23 @@
+name: Square Inch Anthro
+favicon: null
+layout_spectrum: 0.1698070636484772
+typography_spectrum: 0.8834316208958626
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7345810488332063
+  lightness: 0.2568993750028312
+  saturation: 0.5361428568139672
+  rhythmicContrast: 0.3265221640467644
+purpose: []
